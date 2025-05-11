@@ -1,7 +1,2 @@
 # creditcard_fraud_detection
-credit fraud detection project is designed to identify and prevent fraudulent financial transactions by leveraging advanced analytical techniques. 
-git lfs install
-git lfs track "your_large_file"
-git add .gitattributes your_large_file
-git commit -m "Track and add large file"
-git push
+credit fraud detection project is designed to identify and prevent fraudulent financial transactions by leveraging advanced analytical techniques. By analyzing patterns in transaction data, user behavior, and contextual information, the system can distinguish between legitimate and suspicious activities. Machine learning models such as logistic regression, decision trees, or neural networks are typically employed to classify transactions in real-time, flagging high-risk cases for further review. This not only minimizes financial losses for businesses but also enhances security for customers by reducing unauthorized transactions. Ultimately, the project contributes to a safer digital payment ecosystem by automating fraud detection and improving response efficiency.
